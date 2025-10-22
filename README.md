@@ -1,2 +1,2 @@
 # Pirate-Intelligent-Agent
-CS410 SNHU Project 2 
+CS370 SNHU Project 2 
